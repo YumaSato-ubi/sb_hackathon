@@ -1,0 +1,30 @@
+[
+  {
+    "name": "App",
+    "path": "/App",
+    "component": "/Users/satouyuuma/Desktop/work/sb_hackathon_vue/pages/App.vue",
+    "chunkName": "pages/App",
+    "_name": "_43979986"
+  },
+  {
+    "name": "App_backup",
+    "path": "/App_backup",
+    "component": "/Users/satouyuuma/Desktop/work/sb_hackathon_vue/pages/App_backup.vue",
+    "chunkName": "pages/App_backup",
+    "_name": "_916e436a"
+  },
+  {
+    "name": "sample",
+    "path": "/sample",
+    "component": "/Users/satouyuuma/Desktop/work/sb_hackathon_vue/pages/sample.vue",
+    "chunkName": "pages/sample",
+    "_name": "_26d6e2b5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/satouyuuma/Desktop/work/sb_hackathon_vue/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0bdb6ed2"
+  }
+]
